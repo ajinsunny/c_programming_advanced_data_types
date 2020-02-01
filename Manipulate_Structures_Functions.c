@@ -1,3 +1,21 @@
+/*
+Project              : Personal Study
+*
+* Program name      : Pass_Structures_Functions.c
+*
+* Author            : Ajin
+*
+* Date created      : 20200131
+*
+* Purpose           : Learn
+*
+* Revision History  : 20200131
+*
+* Date        Author      Ref    Revision (Date in YYYYMMDD format) 
+* 20200131    Ajin          1      First commit on 20200131
+
+*/
+
 #include <stdio.h>
 
 struct date {
